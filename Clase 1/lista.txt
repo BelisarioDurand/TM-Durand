@@ -1,1 +1,2 @@
 lista
+viendo si aparece quién y qué cambios se hicieron en el repo. con comando git log
