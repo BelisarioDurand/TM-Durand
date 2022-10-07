@@ -1,0 +1,32 @@
+.caja{
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    box-shadow: 20px 30px 10px black;
+    /* eje X - eje Y - desenfoque - color */
+    /* border: 2px solid black; */
+    border-top: 10px double #ff6550;
+border-right: 10px double #e5240a;
+border-bottom: 10px double #ff6550;
+border-left: 10px double #e5240a;
+}
+.caja2{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    padding: 10px;
+    /* border-radius: 15px; */
+    border-radius: 0 30px;
+    box-shadow: 35px 22px 36px -17px rgba(227,0,0,0.39);
+}
+.texto{
+    background-color: yellow;
+    columns: 2;
+    column-gap: 60px;
+    
+}
+
+.texto p{
+    margin: 0;
+}

@@ -1,0 +1,9 @@
+/* font-family: 'Noto Serif Gujarati', serif;
+font-family: 'Silkscreen', cursive; */
+h2{
+    color: red;
+    font-family: 'Noto Serif Gujarati', serif;
+}
+p{
+    font-family: 'Silkscreen', cursive;;
+}
